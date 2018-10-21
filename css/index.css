@@ -1,0 +1,32 @@
+a:link {color: #FFFFFF;}      /* unvisited link */
+a:visited {color: #FFFFFF;}   /* visited link */
+a:hover {color: #FFFFFF;}     /* mouse over link */
+a:active {color: #FFFFFF;}    /* selected link */
+
+.menu-list {
+list-style-type: none;
+text-align:center;
+}
+
+.menu-item {
+list-style-type: none;
+padding-top:1vh;
+height:10vh;
+text-align:left;
+}
+
+.menu-item img
+{
+height:10vh;
+vertical-align:middle;
+text-align:left;
+}
+
+.menu-item h3 {
+font-family: sans-serif;
+vertical-align:middle;
+text-align:left;
+display:inline-block;
+padding-left: 2vw;
+font-size:4vh;
+}
